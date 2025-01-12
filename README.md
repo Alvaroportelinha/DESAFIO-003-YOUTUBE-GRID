@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do Desafio 003! Este projeto tem como objetivo praticar e aprimorar habilidades de CSS Grid Layout — uma das mais poderosas ferramentas para criação de layouts modernos na web. ⚡️
 
+<a href="https://alvaroportelinha.github.io/DESAFIO-003-YOUTUBE-GRID/"> VEJA O RESULTADO </a>
+
 🎨 Sobre o Desafio
 
 Neste desafio, recriamos a interface de um site inspirado no layout do YouTube, utilizando CSS Grid para posicionamento dos elementos.
